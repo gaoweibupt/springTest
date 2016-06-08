@@ -6,6 +6,8 @@
 		<artifactId>smart</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
+	
 	<groupId>smart-service</groupId>
 	<artifactId>smart-service</artifactId>
+
 </project>
