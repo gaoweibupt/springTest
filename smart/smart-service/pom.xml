@@ -9,5 +9,12 @@
 	
 	<groupId>smart-service</groupId>
 	<artifactId>smart-service</artifactId>
-
+	
+	<dependencies>
+		<dependency>
+			<groupId>com.smart</groupId>
+			<artifactId>smart-api</artifactId>
+		</dependency>
+	</dependencies>
+	
 </project>

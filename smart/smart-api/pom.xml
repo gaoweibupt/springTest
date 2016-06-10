@@ -9,7 +9,7 @@
   <groupId>smart-api</groupId>
   <artifactId>smart-api</artifactId>
   <name>smart-api</name>
-	
+  <packaging>jar</packaging>
 	
 	<dependencies>
 		<dependency>
